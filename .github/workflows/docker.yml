@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: | 
             alexcast67/practica_7.1:latest 
-            ghcr.io/AlexCastellano/practica_7.1:latest 
+            ghcr.io/alexcastellano/practica_7.1:latest 
